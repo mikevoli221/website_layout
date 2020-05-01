@@ -1,0 +1,19 @@
+{
+  "name": "website_layout",
+  "version": "1.0.0",
+  "description": "Sample Website Layout Using CSS Grid and Flexbox",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikevoli221/website_layout.git"
+  },
+  "author": "Hiep Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikevoli221/website_layout/issues"
+  },
+  "homepage": "https://github.com/mikevoli221/website_layout#readme"
+}
